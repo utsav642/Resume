@@ -45,6 +45,8 @@ body{
 .image{
     border-radius: 50%;
     border: 3px solid #4ca1a3;
+    width: 35px;
+    height: 35px;
 }
 
 .contents{
